@@ -15,6 +15,5 @@ Welcome to my corner of GitHub, where I tinker, code, and occasionally share my 
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PunchArm255&show_icons=true&count_private=true&theme=graywhite&hide=issues,prs,contribs,stars&include_all_commits=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncharm255&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncharm255&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
