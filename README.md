@@ -14,5 +14,5 @@ I'm Simo, a passionate computer science and software engineering student with a 
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncharm255&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncharm255&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncharm255&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
