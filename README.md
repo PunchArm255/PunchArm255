@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm Simo, a passionate Computer Science and Software Engineering student with a love for all things tech and design. 
-Welcome to my corner of GitHub, where I tinker, code, and occasionally share my thoughts... maybe.
+/nWelcome to my corner of GitHub, where I tinker, code, and occasionally share my thoughts... maybe.
 
 ## About Me
 - 💻 Currently studying Computer Science at Ibn Tofail University
