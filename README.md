@@ -9,8 +9,8 @@ I'm Simo, a passionate computer science and software engineering student with a 
 - 🎨 Passionate about all things design
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/simonassiri)
-- Email: [Your Email Address](simohammednassiri.b@gmail.com)
+- LinkedIn: [Let's connect!](https://www.linkedin.com/in/simonassiri)
+- Email: [simohammednassiri.b@gmail.com](simohammednassiri.b@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
