@@ -1,3 +1,4 @@
+![1728267281397](https://github.com/user-attachments/assets/ffa16e0e-099a-45ba-895f-a226ec3867fb)
 # Hi there! 👋
 
 I'm Simo, a passionate Computer Science and Software Engineering student with a love for all things tech and design. 
