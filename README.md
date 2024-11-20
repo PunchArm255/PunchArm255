@@ -5,6 +5,7 @@
 - 🎓 Pursuing a Software Engineering Certificate at ALX Africa
 - 🌱 Actively learning and exploring new technologies, with a focus on UI/UX Design and Front-End Development
 - 🎨 Passionate about all things design
+ ![statk](https://github.com/user-attachments/assets/3ca85d91-a2e7-4972-a8f4-3cd789de842a)
 
 ## Get in Touch
 - LinkedIn: [linkedin.com/in/simonassiri](https://www.linkedin.com/in/simonassiri)
