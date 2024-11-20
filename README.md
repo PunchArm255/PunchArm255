@@ -1,10 +1,4 @@
-![github1](https://github.com/user-attachments/assets/63cf7050-8b84-4d62-bdd6-a63e375d7695)
-
-# Hi there! 👋
-
-I'm Simo, a passionate Computer Science and Software Engineering student with a love for all things tech and design. 
-
-Here is where I tinker, code, and occasionally share my thoughts... maybe.
+![github1](https://github.com/user-attachments/assets/d21c7ebb-98ae-43dc-b520-fc18181a0d85)
 
 ## About Me
 - 💻 Currently studying Computer Science at Ibn Tofail University
