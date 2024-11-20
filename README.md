@@ -1,4 +1,4 @@
-![baniro](https://github.com/user-attachments/assets/07438181-cf7b-46f2-8a32-201f07a5e9c5)
+![bwinir](https://github.com/user-attachments/assets/9d547282-983d-4462-830b-d3c1ffcbdc11)
 
 ## About Me
 - 💻 Currently studying Computer Science at Ibn Tofail University
