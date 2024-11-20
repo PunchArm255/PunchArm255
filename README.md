@@ -1,4 +1,4 @@
-![github1](https://github.com/user-attachments/assets/d21c7ebb-98ae-43dc-b520-fc18181a0d85)
+![github1](https://github.com/user-attachments/assets/df89d9f8-4e95-4516-8e06-fda9de441099)
 
 ## About Me
 - 💻 Currently studying Computer Science at Ibn Tofail University
