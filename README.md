@@ -1,3 +1,5 @@
+<img width="2078" alt="github banner1" src="https://github.com/user-attachments/assets/8511cafa-0d9e-485e-9508-b3b496cebc07">
+
 # Hi there! 👋
 
 I'm Simo, a passionate Computer Science and Software Engineering student with a love for all things tech and design. 
