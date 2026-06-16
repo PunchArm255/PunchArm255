@@ -2,8 +2,8 @@
 
 ## About Me
 - 💻 Software Engineer & UI/UX Specialist
-- 🎓 Graduated in Cloud Engineering (Ibn Tofail University) and Software Engineering (1337 UM6P)
-- ⚙️ I design and build apps that actually work and look good doing it
+- 🎓 Studying Cloud Computing @UIT and AI-oriented Software Engineering @1337/UM6P
+- ⚙️ I design and build products that actually work and look good doing it
 - 🌍 Always learning new tools, always shipping
 - 🎨 Focused on clean design, solid code, and user-first thinking
 
